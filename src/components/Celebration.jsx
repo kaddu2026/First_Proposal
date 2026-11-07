@@ -61,7 +61,7 @@ export default function Celebration({ onReplay }) {
           <p className="yes__line yes__line--4 signoff">
             With lots of love,
             <br />
-            <span className="signature">Bhavesh {'\u2764\uFE0F'}</span>
+            <span className="signature">tumhare bhai ka dost😁😒 {'\u2764\uFE0F'}</span>
           </p>
           <div className="yes__foot">
             <Pumpkin mood="love" className="yes__pumpkin" />
